@@ -1,0 +1,5 @@
+NODE_ENV=development/test/production
+LOG_LEVEL=debug/info/error
+PORT=
+
+REDIS_URI=redis://host:port/db

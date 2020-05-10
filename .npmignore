@@ -1,0 +1,9 @@
+### folders
+.idea
+
+### files
+.npmignore
+.eslintrc
+
+### matching
+*.tgz
